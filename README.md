@@ -13,13 +13,3 @@ Este programa foi desenvolvido para:
 - Controlar vários atuadores, incluindo motores, sistemas pneumáticos e servos.
 
 O software foi totalmente desenvolvido no LabVIEW, que fornece uma interface gráfica para criar sistemas de controle complexos.
-
----
-
-## 📂 **Estrutura do Projeto**
-
-```plaintext
-├── Documentation/         # Arquivos de documentação (guias de configuração, diagramas, etc.)
-├── Source Code/           # Arquivos principais do projeto LabVIEW (.lvproj e subVIs)
-├── Config/                # Arquivos de configuração (ajustes de PID, constantes, etc.)
-└── README.md              # Visão geral do projeto (este arquivo)
